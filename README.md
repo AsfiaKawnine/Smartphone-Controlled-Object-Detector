@@ -15,8 +15,10 @@ Software requirements-
 ## Connections
 
 + Connection between Bluetooth module and Arduino Uno:
- ![IMAGE](https://github.com/AsfiaKawnine/Smartphone-Controlled-Object-Detector/tree/master/connections/Connection_arduino,bluetooth.png "Connection_arduino,bluetooth")
- 
+![alt text][logo]
+
+[logo]: https://github.com/AsfiaKawnine/Smartphone-Controlled-Object-Detector/tree/master/connections/Connection_arduino,bluetooth.png "Connection_arduino,bluetooth"
+
 + Connection between Ultra Sonic Sensor and Arduino Uno:
  ![IMAGE](../connections/sesor_connection.png "sesor_connection")
 
