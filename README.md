@@ -15,18 +15,16 @@ Software requirements-
 ## Connections
 
 + Connection between Bluetooth module and Arduino Uno:
-![alt text][logo]
-
-[logo]: https://github.com/AsfiaKawnine/Smartphone-Controlled-Object-Detector/tree/master/connections/Connection_arduino,bluetooth.png "Connection_arduino,bluetooth"
+ ![](connections/Connection_arduino,bluetooth.png)
 
 + Connection between Ultra Sonic Sensor and Arduino Uno:
- ![IMAGE](../connections/sesor_connection.png "sesor_connection")
+ ![](connections/sesor_connection.png)
 
 + Connection among Buzzer, Ultra Sonic Sensor and Arduino Uno:
- ![IMAGE](../connections/Connection_arduino,sensor,buzzer.png "Connection_arduino,sensor,buzzer")
+ ![](connections/Connection_arduino,sensor,buzzer.png)
 
 + Connection among Gear Motors, Motor Shield and Battery: 
- ![IMAGE](../connections/Connection_motorShield,DCmotor.jpg "Connection_motorShield,DCmotor")
+ ![](connections/Connection_motorShield,DCmotor.jpg)
 
 ## Working Process of the Device - 
 + At first Smartphone has to be connected with the Bluetooth Module of the device. 
